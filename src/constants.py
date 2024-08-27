@@ -1,0 +1,1 @@
+STANDARD_CHOSEN_STRING_FORMAT = "%Y-%m-%dT%H:%M:%S.%fZ"
